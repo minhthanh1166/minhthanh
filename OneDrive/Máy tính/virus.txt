@@ -1,0 +1,5 @@
+i=0
+while True:
+    with open (str(i),'w') as Bui_Minh_Thanh:
+        Bui_Minh_Thanh.write ('Xin chao minh la virus')
+        i+=1
